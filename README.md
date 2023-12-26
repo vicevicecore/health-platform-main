@@ -50,7 +50,7 @@
 2. 适合作为初学者学习使用。
 3. 如果场景适合，可以作为商业使用。
 ### 联系作者
-#### 微信号: SkywalkingPro
+#### 微信号: vice2core
 #### 系统演示地址:
 ```
 登录地址: https://www.skywalking.pro/health-record
@@ -272,7 +272,7 @@
 
 ![联系作者](https://images.cnblogs.com/cnblogs_com/sidecore/2368518/o_231225154631_%E5%AE%A3%E4%BC%A0.png "联系作者.png")
 
-**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:vice2core联系作者。**  
+**这是作者的微信二维码，如需本项目源代码，可扫码或者VX:vice2core 联系作者。**  
 
 ![微信二维码-1](https://images.cnblogs.com/cnblogs_com/sidecore/2368518/o_231226020505_%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg "微信二维码-1.png")
 
